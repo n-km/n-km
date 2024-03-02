@@ -85,8 +85,12 @@ button:hover {
 @media(min-width: 800px){
     .top {
         position: absolute;
+        max-width: fit-content;
     }
     #close-top {
+        display: none;
+    }
+    #open-top {
         display: none;
     }
 }
