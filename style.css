@@ -63,10 +63,12 @@ button:hover {
     border-radius: 10px;
     max-width: 60vh;
     margin-top: 5px;
+    box-shadow: 0 0 3px transparent;
 }
 .project-btn button:hover {
     border-color: transparent;
     background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.6);
 }
 #kontakt {
     width: fit-content;
@@ -86,6 +88,7 @@ button:hover {
     .top {
         position: absolute;
         max-width: fit-content;
+        transform: translate(0, 0);
     }
     #close-top {
         display: none;
