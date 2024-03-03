@@ -5,7 +5,7 @@
 #### 🌱 I’m currently learning __HTML, CSS, JS and Pyhon__
 
 ## 📎 Links
-#### currently working - <a href="https://github.com/n-km/Pyfight">Pyfight</a>
+#### currently working - <a href="https://github.com/n-km/Pyfight">Pyfight</a> and <a href="https://github.com/n-km/n-km">About Me</a>
 #### beautyful homepage - <a href="https://github.com/n-km/transparent-searchmachine">transparent-searchmachine</a>
 <!--
 **n-km/n-km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
