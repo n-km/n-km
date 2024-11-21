@@ -10,7 +10,7 @@
 #### functional static cloud - <a href="https://github.com/n-km/Home-FileWeb">Home-FileWeb</a>
 
 ## Social Links:
-[<img height="25px" src="https://pngimg.com/uploads/twitch/twitch_PNG27.png">](https://www.twitch.tv/komboldi) [<img height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_(2017).svg/2560px-YouTube_full-color_icon_(2017).svg.png">](https://www.youtube.com/@komboldi)
+
 <!--
 **n-km/n-km** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
