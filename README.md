@@ -7,7 +7,8 @@
 - 🌱 learning <b>HTML, CSS, JS and Python</b>  
 
 <br><br>
-
+![n-km's Stats](https://github-readme-stats.vercel.app/api?username=n-km&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n-km&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 <!-- Social Badges -->
 <a href="https://github.com/n-km">
   <img src="https://img.shields.io/github/followers/n-km?style=social" alt="GitHub Followers">
